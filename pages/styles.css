@@ -2,12 +2,21 @@ body {
     background-color: ivory;
 }
 
+
+
 .bg-photo {
     position: absolute;
     width: auto;
     height: 100%;
 
 }
+.contactInfo {
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 300px;
+    color: #333;
+}
+
 .recipe-images {
     height: auto;
     width: 600px;
@@ -46,7 +55,9 @@ body {
 .recipeOptions a {
     color: burlywood;
     font-size: large;
+    position: re;
 }
+
 
 .miniphoto {
     height: auto;
@@ -76,12 +87,7 @@ body {
     height: 100%;
 }
 
-.contactInfo {
-    position: relative;
-    padding-left: 800px;
-    padding-top: 300px;
-    color: #333;
-}
+
 
 footer {
     background-color: #333; 
